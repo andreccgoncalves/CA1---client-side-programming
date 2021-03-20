@@ -1,0 +1,30 @@
+.jumbotron{
+    background-color:#abb1b3;
+}
+body{
+    background-color:#d6dada;
+}
+h1, h2, body{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+
+ul>li.test {
+    list-style-type: none;
+}
+ul>li.text {
+    list-style-type: none;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+}
+h3{
+    font-size:x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    text-align: left;
+    font-size: large;
+}
+ul>li.text {
+    text-align: left;
+}
